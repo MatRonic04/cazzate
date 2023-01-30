@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Calcolatore IVA</title>
+    <style>
+      /* Stile del form */
+      form {
+        width: 500px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: lightgray;
+        border-radius: 10px;
+        text-align: center;
+      }
+      
+      /* Stile dei campi di input */
+      input[type="text"] {
+        width: 60%;
+        padding: 10px;
+        margin: 8px 0;
+        box-sizing: border-box;
+        border-radius: 5px;
+        border: 1px solid gray;
+      }
+      
+      /* Stile del pulsante */
+      input[type="button"] {
+        width: 20%;
+        padding: 10px;
+        margin:
